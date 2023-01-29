@@ -1,4 +1,4 @@
-# Some fackts about me
+# Some facts about me
 
 1. My name is Julia
 2. I study in Netology
